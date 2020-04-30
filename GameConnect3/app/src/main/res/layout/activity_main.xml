@@ -34,7 +34,7 @@
         android:layout_marginEnd="151dp"
         android:layout_marginRight="151dp"
         android:layout_marginBottom="16dp"
-        android:onClick="startClick"
+        android:onClick="buttonClick"
         android:text="@string/game_start"
         app:layout_constraintBottom_toTopOf="@+id/gridLayout"
         app:layout_constraintEnd_toEndOf="parent"
